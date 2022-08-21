@@ -1,0 +1,55 @@
+.heading{
+
+    font-size: 23px;
+
+    box-shadow: 5px 5px 5px grey;
+
+    width: 100%;
+
+    border-radius: 5px;
+
+    margin: 0px;
+
+}
+
+.Note{
+
+    font-size: 15px;
+
+    color: black;
+
+}
+
+canvas{
+
+    background-color: peachpuff;
+
+    border: 8px ridge red;
+
+    box-shadow: 5px 5px 5px black;
+
+}
+
+#footer{
+
+    position: fixed;
+
+    bottom: 0;
+
+    background-color: grey;
+
+    width: 100%;
+
+    color: white;
+
+    line-height: 3;
+
+    text-align: center;
+
+    border-radius: 5px;
+
+    font-family: fantasy;
+
+    font-size: 20;
+
+}
